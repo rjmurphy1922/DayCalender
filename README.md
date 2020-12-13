@@ -8,3 +8,4 @@ The languages used in this project are HTML, CSS Javascript and JQuery.
 Link to live Site
 https://rjmurphy1922.github.io/DayCalender/
 
+https://raw.githubusercontent.com/rjmurphy1922/DayCalender/master/Screen%20Shot%202020-12-12%20at%203.28.07%20PM.png
